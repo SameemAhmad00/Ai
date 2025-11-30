@@ -78,3 +78,10 @@ button {
 button:hover {
   background: #15803d;
 }
+
+p{
+  text-align: center; 
+  padding: 10px 0;
+  position: sticky;
+  top: 100%;
+}
